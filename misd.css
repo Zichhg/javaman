@@ -142,8 +142,44 @@ li{
   text-decoration-color: rgb(139, 127, 15);
 }
 
+.wp13{
+  text-decoration: underline;
+  text-decoration-color:rgb(66, 9, 66) ;
+}
+
+.sSp{
+  text-decoration: underline;
+  text-decoration-color: rgb(255, 0, 0);
+}
 
 
+.Olx{
+  text-decoration: underline;
+  text-decoration-color: rgb(231, 199, 15);
+}
+
+
+.inmy{
+  margin: 20px;
+  padding: 10px;
+ text-align: left;
+}
+
+.fatherweapon{
+  text-decoration: underline;
+  text-decoration-color: rgb(255, 140, 0);
+}
+
+.underfather{
+  text-decoration: underline;
+  text-decoration-color: rgb(0, 255, 0);
+}
+
+
+.general{
+  text-decoration: underline;
+  text-decoration-color: rgb(201, 10, 106);
+}
 
 /*@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@900&family=Sumana:wght@700&display=swap");
 body {
